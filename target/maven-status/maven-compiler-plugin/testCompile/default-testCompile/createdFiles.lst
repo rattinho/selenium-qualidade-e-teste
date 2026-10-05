@@ -1,0 +1,7 @@
+pages/CadastroPage.class
+pages/ContaPage.class
+pages/HomePage.class
+tests/RegistrarUsuarioTest.class
+tests/BaseTest.class
+pages/LoginPage.class
+tests/LoginIncorretoTest.class
